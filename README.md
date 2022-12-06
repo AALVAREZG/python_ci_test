@@ -1,3 +1,3 @@
 # python_ci_test
 
-#Readme file for my projecto to test ci on python
+#Readme file for my project to test ci on python
